@@ -1,4 +1,4 @@
-#include "main.h"
+#nclude "main.h"
 
 /**
  * _abs - computes the absolute value of an integer
@@ -11,6 +11,5 @@ int _abs(int n)
 	{
 		return (n);
 	}
-	
 	return (-n);
 }
